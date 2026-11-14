@@ -70,7 +70,7 @@ const employee: IEmployee = {
 //! This is not Valid
 // type TEmployee = {
 //     name: string;
-// } 
+// }
 
 // type TEmployee = {
 
