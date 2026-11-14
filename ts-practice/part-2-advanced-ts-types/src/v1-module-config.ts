@@ -1,5 +1,5 @@
 const greetings = () => {
-    console.log("Hello World");
+    console.log("Hello Programming");
 }
 
-greetings()
+// greetings()
