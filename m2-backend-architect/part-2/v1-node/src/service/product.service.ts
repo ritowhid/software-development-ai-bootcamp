@@ -10,5 +10,4 @@ export const productService = () => {
     console.log(result);
     return JSON.parse(result);
 
-
-}
+};
