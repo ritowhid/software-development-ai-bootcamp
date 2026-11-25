@@ -23,7 +23,7 @@ const productsController = (req: IncomingMessage, res: ServerResponse) => {
         ];
 
         productService();
-        
+
         res.writeHead(200, { "Content-Type": "application/json" });
         res.end(JSON.stringify({ message: "Products retrived successfully", data: products, }))
 
